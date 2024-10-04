@@ -1,2 +1,2 @@
 # Practice-Projects
-Projects that will help me learn the fundamentals
+A collection of beginner to intermediate level projects to help me grasp the fundamentals of coding across various languages.  
