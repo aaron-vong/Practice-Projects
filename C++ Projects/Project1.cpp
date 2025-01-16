@@ -5,7 +5,7 @@ using namespace std;
 
 
 
-// In this project, we will be converting a number to a string
+// In this project, we will be converting a number to words
 // Ex. 300,000 to Three Hundred Thousand
 
 // Thought process; Create an array to store ones, tenths, hundredths, thousandths place.
